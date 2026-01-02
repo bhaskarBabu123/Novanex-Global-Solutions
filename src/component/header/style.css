@@ -1,0 +1,29 @@
+header{
+    position: sticky;
+    top: 0 !important;
+    background: #ffffff;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    z-index: 1020;
+}
+header{
+   
+}
+
+header .nav-link{
+    color: #020202 !important;
+    font-size: 1.1rem;
+}
+.logo{
+    width: 150px;
+}
+header .dropdown-item{
+    padding: 10px;
+}
+header .dropdown-item:hover{
+    background-color: var(--primary-color) !important;
+    color: #fff !important;
+}
+header .nav-link:hover{
+    color: var(--primary-color) !important;
+}

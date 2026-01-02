@@ -1,0 +1,25 @@
+{
+  "short_name": "Apexion Global Solutions: Advanced IT Services for Digital Transformation and Growth",
+  "name": "Apexion Global Solutions offers services like digital transformation, application development, enterprise software, data analytics, AI, cybersecurity, cloud computing, IT consulting, DevOps, and quality assurance to drive business success.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
