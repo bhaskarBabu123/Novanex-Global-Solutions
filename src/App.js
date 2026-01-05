@@ -30,23 +30,26 @@ function App() {
     Aos.init();//initilization
   }, [])
   return (
-   <div style={{overflowX:'hidden'}}>
-    <BrowserRouter>
-    <Header/>
-   <Routes>
-    <Route path='/' element={<Home/>}/>
-    <Route path='/services/software-training' element={<Software/>}/>
-    <Route path='/services/career-councelling' element={<Career/>}/>
-    <Route path='/services/placement-councelling' element={<Placement/>}/>
-    <Route path='/services/HR' element={<Hr/>}/>
-    <Route path='/services/transform' element={<NonITtoIT/>}/>
+  //  <div style={{overflowX:'hidden'}}>
+  //   <BrowserRouter>
+  //   <Header/>
+  //  <Routes>
+  //   <Route path='/' element={<Home/>}/>
+  //   <Route path='/services/software-training' element={<Software/>}/>
+  //   <Route path='/services/career-councelling' element={<Career/>}/>
+  //   <Route path='/services/placement-councelling' element={<Placement/>}/>
+  //   <Route path='/services/HR' element={<Hr/>}/>
+  //   <Route path='/services/transform' element={<NonITtoIT/>}/>
    
-    <Route path='/aboutus' element={<AboutPage/>}/>
-    <Route path='/contact-us' element={<ContactPage/>}/>
-   </Routes>
-   <Footer/>
-    </BrowserRouter>
-   </div>
+  //   <Route path='/aboutus' element={<AboutPage/>}/>
+  //   <Route path='/contact-us' element={<ContactPage/>}/>
+  //  </Routes>
+  //  <Footer/>
+  //   </BrowserRouter>
+  //  </div>
+  <>>
+    <h1>Karthik & Malik & Bhaksat Antony</h1>
+  </>
   )
 }
 
